@@ -1,5 +1,7 @@
+# Fork of Colosseum used by NMSU ASL to support AAM/UAV research efforts. All credit goes to Microsoft for AirSim and Codex Labs for Colosseum.
+
 # Welcome to Colosseum, a successor of [AirSim](https://github.com/microsoft/AirSim)
-  
+
 ## Build Status
 [![Ubuntu Build](https://github.com/CodexLabsLLC/Colosseum/actions/workflows/test_ubuntu.yml/badge.svg)](https://github.com/CodexLabsLLC/Colosseum/actions/workflows/test_ubuntu.yml)
 [![MacOS Build](https://github.com/CodexLabsLLC/Colosseum/actions/workflows/test_macos.yml/badge.svg)](https://github.com/CodexLabsLLC/Colosseum/actions/workflows/test_macos.yml)
